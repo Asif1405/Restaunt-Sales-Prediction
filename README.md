@@ -1,4 +1,4 @@
-# Restaunt-Sales-Prediction
+# Restaunt-Revenue-Prediction
 
 # Overview
 Prerdicting sales revenue of various restaurants using python
